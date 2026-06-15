@@ -1,0 +1,16 @@
+# Arquivos de ambiente e credenciais
+.env
+*.key
+*.pem
+
+# Dependências
+node_modules/
+
+# Arquivos temporários
+*.log
+*.tmp
+.DS_Store
+
+# Build
+dist/
+build/
